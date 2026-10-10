@@ -13,4 +13,4 @@
 ・Step 2
 　以下のNotebookをGoogle Colabで開いてください。
 
-  　JSH48_handson_python_code.ipynb  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nomuryn/HSH48_handson/blob/main/JSH48_handson_python_code.ipynb)
+  　JSH48_handson_python_code.ipynb  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nomuryn/JSH48_handson/blob/main/JSH48_handson_python_code.ipynb)
